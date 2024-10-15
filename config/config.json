@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "your_mysql_username",
+    "password": "your_mysql_password",
+    "database": "food_ordering_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
